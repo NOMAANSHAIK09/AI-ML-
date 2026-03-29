@@ -1,8 +1,8 @@
 # AI-ML-
 Complete AI-ML jounary , from scratch to advance project .
 Topic :
-1.working on json data
-2.NumPy
+.1.working on json data
+.2.NumPy
 3.Pandas
 4.Data Collection
 5.Wed dev 
